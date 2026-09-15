@@ -10,7 +10,7 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dudaemercriano2490-bip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dudaemercriano2490-bip&show_icons=true&theme=dark" />
 </p>
 
 ## 🛠️ Sobre Mim
