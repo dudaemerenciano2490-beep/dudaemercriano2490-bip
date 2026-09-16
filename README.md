@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-## 📊 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudaemercriano2490-bip&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
-</p>
-
 ## 🛠️ Sobre Mim
 - 🌱 Estou aprendendo desenvolvimento e programação.
 - 🎯 Meu objetivo é criar aplicações incríveis e evoluir na tecnologia.
